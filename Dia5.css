@@ -48,7 +48,7 @@
 }
 
 .slot2 {
-    background-image: url(/images/313712957html_row0.jpg);
+    background-image: url(images/313712957html_row0.jpg);
     background-position: center center;
     background-size: 109%;
     width: calc(100% - 30px);
@@ -92,7 +92,7 @@ width: 1250*/
 }
 
 .S3-hamburguesa1 {
-    background-image: url(/images/313712957html_column10.png);
+    background-image: url(images/313712957html_column10.png);
     background-position: center;
     width: 25%;
     height: 100%;
@@ -114,7 +114,7 @@ width: 1250*/
 }
 
 .S3-hamburguesa2 {
-    background-image: url(/images/313712957html_column12.png);
+    background-image: url(images/313712957html_column12.png);
     background-position: center;
     width: 25%;
     height: 100%;
@@ -222,7 +222,7 @@ width: 1250*/
 }
 
 .slot5 {
-    background-image: url(/images/313712957html_row3.png);
+    background-image: url(images/313712957html_row3.png);
     width: 100%;
     background-size: contain;
 }
@@ -409,7 +409,7 @@ width: 1250*/
 }
 
 .s9-slot9 {
-    background-image: url(/images/313712957html_row6.jpg);
+    background-image: url(images/313712957html_row6.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
